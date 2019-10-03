@@ -4,3 +4,4 @@ This image has been build to facilitate the sls bitbucket pipeline execution. It
 
 * Sonar for static analysis
 * Jq for parsing the results
+* Pipenv is installed
